@@ -4,7 +4,7 @@
 
 <p> STEP 0: TOY MODEL </p>
 <p align="center">
-  <img src="Results/toy_model.png">
+  <img src="Results/network_vis.png.png">
 </p>
 
 The first task of this project is to replicate this paper: https://link.springer.com/content/pdf/10.1007/BF00392763.pdf 
