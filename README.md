@@ -9,4 +9,9 @@
 
 ## STEP 1: REPLICATE PAPER
 The first task of this project is to replicate this paper: https://link.springer.com/content/pdf/10.1007/BF00392763.pdf 
-This is practice exercise to see whether this project is feasible or not. 
+The tasks in this step: 
+- Adjust the network (from the toy model) to represent the reservoirs and fluxes from the paper
+- Find a way to add the parameters of the paper to the network
+- Simulate the network and visualize the results (similar to the graphs from the paper)
+
+## STEP 2: ADJUST THE PARAMETERS OF THE MODEL
