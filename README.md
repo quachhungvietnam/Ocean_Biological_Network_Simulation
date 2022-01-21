@@ -17,7 +17,8 @@ The tasks in this step:
 <p align="center">
   <img src="Results/Replicated_network.png">
 </p>
-- Find a way to add the parameters of the paper to the network -> MARKOV CHAIN!
+
+- Find a way to add the parameters of the paper to the network (MARKOV CHAIN)
 - Simulate the network and visualize the results (similar to the graphs from the paper)
 <p align="center">
   <img src="Results/all_states.png">
