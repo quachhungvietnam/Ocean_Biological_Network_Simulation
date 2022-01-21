@@ -14,7 +14,13 @@
 The first task of this project is to replicate this paper: https://link.springer.com/content/pdf/10.1007/BF00392763.pdf 
 The tasks in this step: 
 - Adjust the network (from the toy model) to represent the reservoirs and fluxes from the paper
-- Find a way to add the parameters of the paper to the network
+<p align="center">
+  <img src="Results/Replicated_network.png">
+</p>
+- Find a way to add the parameters of the paper to the network -> MARKOV CHAIN!
 - Simulate the network and visualize the results (similar to the graphs from the paper)
+<p align="center">
+  <img src="Results/all_states.png">
+</p>
 
 ## STEP 2: ADJUST THE PARAMETERS OF THE MODEL
