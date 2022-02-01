@@ -4,9 +4,6 @@
 
 ## STEP 0: TOY MODEL
 <p align="center">
-  <img src="Results/simple_3_box_model.png">
-</p>
-<p align="center">
   <img src="Results/simple_foodweb.png">
 </p>
 
